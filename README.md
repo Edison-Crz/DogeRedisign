@@ -1,3 +1,3 @@
 # DogeRedisign
 
-##Doge Association da la bienvenida con el nuevo diseño
+<h2> Doge Association da la bienvenida con el nuevo diseño
